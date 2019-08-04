@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="43.899">
+  <properties />
+  
+  
+            <testcase name="checkingRevies" time="22.809" classname="com.amazon.testcases.TestCheckingReviews" />
+                <testcase name="signOut" time="3.973" classname="com.amazon.testcases.TestCheckingReviews" />
+                <testcase name="testLogin" time="17.117" classname="com.amazon.testcases.TestCheckingReviews" />
+      
+</testsuite>
